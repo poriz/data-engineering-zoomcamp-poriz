@@ -1,4 +1,5 @@
 ny_taxi_postgres_data/
 
+.DS_Store
 yellow_head.csv
 yellow_tripdata_2023-01.parquet
